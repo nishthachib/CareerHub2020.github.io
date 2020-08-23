@@ -1,22 +1,19 @@
-<!-- Add your content of head and header -->
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
   <meta charset="UTF-8">
   <meta content="IE=edge" http-equiv="X-UA-Compatible">
   <meta content="width=device-width,initial-scale=1" name="viewport">
-  <meta content="description" name="description">
   <meta name="google" content="notranslate" />
-  <meta content="Mashup templates have been developped by Orson.io team" name="author">
 
   <!-- Disable tap highlight on IE -->
   <meta name="msapplication-tap-highlight" content="no">
   
-  <link href="./assets/apple-touch-icon.png" rel="apple-touch-icon">
   <link href="./assets/favicon.ico" rel="icon">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
@@ -29,12 +26,12 @@
  <!-- Add your content of header -->
     <header class="container-fluid">
         <div class="topnav row justify-content-around">
-            <a class="active col-md-2 col-xs-2" href="home.html"><i class="fa fa-home" aria-hidden="true"></i><span class="mob-hide">&nbsp Home</span></a>
-            <a class="col-md-2 col-xs-2" href="about.html"><i class="fa fa-users" aria-hidden="true"></i><span class="mob-hide">&nbsp About</span></a>
-            <a class="col-md-2 col-xs-2" href="overview.html"><i class="fa fa-eye" aria-hidden="true"></i><span class="mob-hide">&nbsp Overview</span></a>
-            <a class="col-md-2 col-xs-2" href="counselor.html"><i class="fa fa-search" aria-hidden="true"></i><span class="mob-hide">&nbsp Counselor</span></a>
-            <a class="col-md-2 col-xs-2" href="blogs.html"><i class="fa fa-newspaper-o" aria-hidden="true"></i><span class="mob-hide">&nbsp Blogs</span></a>
-            <a class="col-md-2 col-xs-2" href="feedback.html"><i class="fa fa-comments" aria-hidden="true"></i><span class="mob-hide">&nbsp Feedback</span></a>
+            <a class="active col-md-2 col-xs-2" href="home.html"><i class="fa fa-home" aria-hidden="true"></i><span class="mob-hide">Home</span></a>
+            <a class="col-md-2 col-xs-2" href="about.html"><i class="fa fa-users" aria-hidden="true"></i><span class="mob-hide">About</span></a>
+            <a class="col-md-2 col-xs-2" href="overview.html"><i class="fa fa-eye" aria-hidden="true"></i><span class="mob-hide">Overview</span></a>
+            <a class="col-md-2 col-xs-2" href="counselor.html"><i class="fa fa-search" aria-hidden="true"></i><span class="mob-hide">Counselor</span></a>
+            <a class="col-md-2 col-xs-2" href="blogs.html"><i class="fa fa-newspaper-o" aria-hidden="true"></i><span class="mob-hide">Blogs</span></a>
+            <a class="col-md-2 col-xs-2" href="feedback.html"><i class="fa fa-comments" aria-hidden="true"></i><span class="mob-hide">Feedback</span></a>
         </div>
     </header>
 
