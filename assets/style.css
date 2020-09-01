@@ -4038,3 +4038,5 @@ h2.text-center:after{
   section#timeline article div.inner h2:after {
     background: #264653;
   }
+
+  #success_message{ display: none;}
